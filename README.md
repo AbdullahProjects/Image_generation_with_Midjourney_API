@@ -16,7 +16,7 @@ A simple one-page Flutter app that allows users to generate images using the Mid
 |------------------|------------------|
 | ![Image 1](https://github.com/AbdullahProjects/Image_generation_with_Midjourney_API/blob/main/assets/images/Screenshot%202025-02-08%20190812.png) | ![Image 2](https://github.com/AbdullahProjects/Image_generation_with_Midjourney_API/blob/main/assets/images/Screenshot%202025-02-08%20190828.png) |
 
-[Watch Demo Video on LinkedIn](https://www.linkedin.com/your-demo-video-link)
+[Watch Demo Video on LinkedIn](https://www.linkedin.com/feed/update/urn:li:groupPost:10408911-7294000069177929731/)
 
 ## Tech Stack
 - **Flutter** & **Dart** for the front-end
