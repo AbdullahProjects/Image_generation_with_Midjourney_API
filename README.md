@@ -9,12 +9,14 @@ A simple one-page Flutter app that allows users to generate images using the Mid
 - Choose an **art style**
 - Generate high-quality AI images using **MidJourney API**
 
-## Screenshots
+## Screenshots & Demo
 
-### Demo Images
-| Generated Image 1 | Generated Image 2 | Generated Image 3 |
-|------------------|------------------|------------------|
-| ![Image 1](https://github.com/AbdullahProjects/Image_generation_with_Midjourney_API/blob/main/assets/images/Screenshot%202025-02-08%20185655.png) | ![Image 2](https://github.com/AbdullahProjects/Image_generation_with_Midjourney_API/blob/main/assets/images/Screenshot%202025-02-08%20185718.png) | ![Image 3]([demo/demo3.png](https://github.com/AbdullahProjects/Image_generation_with_Midjourney_API/blob/main/assets/images/Screenshot%202025-02-08%20185729.png)) |
+### Demo Images & Video
+| Generated Image 1 | Generated Image 2 |
+|------------------|------------------|
+| ![Image 1](https://github.com/AbdullahProjects/Image_generation_with_Midjourney_API/blob/main/assets/images/Screenshot%202025-02-08%20190812.png) | ![Image 2](https://github.com/AbdullahProjects/Image_generation_with_Midjourney_API/blob/main/assets/images/Screenshot%202025-02-08%20190828.png) |
+
+[Watch Demo Video on LinkedIn](https://www.linkedin.com/your-demo-video-link)
 
 ## Tech Stack
 - **Flutter** & **Dart** for the front-end
